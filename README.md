@@ -1,4 +1,4 @@
-Owner of LCPS Proxy
+ok
 
 <!---
 GODDAMNBOI/GODDAMNBOI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
